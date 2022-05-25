@@ -23,12 +23,13 @@
 
 ## BREVE RESUMO DO PROJETO
 
-Nesse trabalho realizamos o levantamento estatístico de acidentes aéreos ocorridos em território brasileiro, entre os anos de 2010 a 2019.
+O objetivo deste trabalho foi realizar uma análise dos dados de acidentes aéreos ocorridos no Brasil, no período de (2010-2019), com o propósito de mostrar em gráficos e análises, as informações de incidentes aéreos em solo brasileiro.
 
-As principais ocorrências abordadas serão: região, tipo de aeronave, principais ocorrências e ocorrências por fabricante entre outros.
+O conteúdo dos dados usados para este trabalho, foi a base do CENIPA disponibilizada via GitHub pelo Professor Edson.
 
-Os principais resultados da análise foram:
+Os principais resultados e insights da análise foram:
 
-As aeronaves mais afetadas são os aviões com 4.213 mil acidentes, destacando-se as aeronaves com até 6 acentos, monomotores com fabricação de 2008.
-A principal falha desses aviões são os pistões do motor que representam um total de 56,31 % dos problemas da aeronave, já a fabricante Cessna Aircraft foi a responsável tem um total de 800 casos ou 23,51% do total.
-Os acidentes em sua grande maioria são leves correspondendo a 55,1% do total, com o mês de janeiro sendo o mês com mais incidentes no ano, já o Sudeste representa a região que mais concentra ocorrências em números absolutos sendo São Paulo o estado mais afetado.
+Ao analisar as regiões percebemos que Sudeste é a mais afetada dentre todas as outras regiões. Analisando os estados, os dados nos mostram que o estado mais afetado é o de SP com 1239 incidentes registrados. Quando analisamos a cidade, a mais afetada é a do Rio de Janeiro com 293 incidentes registrados.
+O tipo de aeroneva mais afetado são os aviões, com 4213 incidentes registrados tendo uma representatividade de 80,37%, sendo a sua grande maioria aeronaves monomotores.
+A principal falha encontrada são os pistões de motor com 56,31% de representatividade dos problemas encontrados nas aeronaves, juntamente com a fabricante Cessna Aircraft com 15,26% sendo a fabricante com o maior número de incidentes aéreos registrados. Analisando também a descrição destas ocorrências o motivo "FALHA DE MOTOR EM VOO" é o maior com 12,46% de representatividade.
+A grande maioria dos incidentes registrados são incidentes leves com 55,07%, onde o mês com maior volume de incidentes é Janeiro e o ano de 2013 é o maior ano em números de incidentes com 12,46% dos casos. Já a hora com maior número de incidentes é "00:00:00" com 160 incidentes registrados.
